@@ -1,0 +1,9 @@
+main
+spinners
+*.exe
+*.exe~
+*.so
+*.dylib
+*.dll
+vls.log
+.editorconfig
